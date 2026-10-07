@@ -1,7 +1,7 @@
 # quan-dep-trai
 
 ## Tên Môn Học
-- **Lập trình Web** - Ca 1
+- **Nhập môn DevOps và đồng bọn** - Ca 1
 
 ---
 
