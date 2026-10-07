@@ -1,7 +1,7 @@
 # quan-dep-trai
 
 ## Tên Môn Học
-- **Nhập môn DevOps** - Ca 1
+- **Nhập môn DevOps và đồng bọn** - Ca 1
 
 ---
 
