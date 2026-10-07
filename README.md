@@ -1,7 +1,7 @@
 # quan-dep-trai
 
 ## Tên Môn Học
-- **Công nghệ phần mềm** - Ca 1
+- **Lập trình Web** - Ca 1
 
 ---
 
